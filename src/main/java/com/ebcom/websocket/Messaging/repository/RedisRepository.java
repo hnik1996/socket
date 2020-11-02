@@ -1,7 +1,6 @@
-package com.ebcom.websocket.websocket.repository;
+package com.ebcom.websocket.Messaging.repository;
 
-import com.ebcom.websocket.websocket.model.InputData;
-import org.springframework.data.annotation.TypeAlias;
+import com.ebcom.websocket.Messaging.model.InputData;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

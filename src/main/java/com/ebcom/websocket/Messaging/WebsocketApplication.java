@@ -1,7 +1,8 @@
-package com.ebcom.websocket.websocket;
+package com.ebcom.websocket.Messaging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 public class WebsocketApplication {

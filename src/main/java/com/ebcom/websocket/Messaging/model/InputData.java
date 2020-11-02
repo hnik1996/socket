@@ -1,4 +1,4 @@
-package com.ebcom.websocket.websocket.model;
+package com.ebcom.websocket.Messaging.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
